@@ -1,5 +1,5 @@
 # QuantumCnn--NetworkAttackDetection
-基于谷歌提供的样例量子卷积神经网络模型，实现了基于KDD99数据集的网络攻击检测。
+基于谷歌提供的样例量子卷积神经网络模型，训练KDD99数据集实现了网络攻击分类检测。
 
 0 必要python包：tensorflow-2.1.0、tensorflow_quantum、sklearn、matplotlib、cirq、sympy、numpy、PyQt5
 
